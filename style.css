@@ -1,0 +1,47 @@
+.color-title[id="red"]
+{
+    color: red;
+}
+
+.color-title[id="blue"]
+{
+    color: blue;
+}
+
+.color-title[id="orange"]
+{
+    color: orange;
+}
+
+.color-title[id="green"]
+{
+    color: green;
+}
+
+.color-title[id="yellow"]
+{
+    color: yellow;
+}
+
+/*h tha to kano etsi
+#red
+{
+color:red;
+}
+*/
+
+*{
+    font-weight:normal;
+}
+
+/*h tha to kano etsi
+.color-title
+{
+font-weight:normal;
+}
+*/
+
+img{
+    height: 200px;
+    width: 200px;
+}
